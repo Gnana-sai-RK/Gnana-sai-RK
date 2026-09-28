@@ -8,7 +8,7 @@
 <a href="https://github.com/PRK-blogler-420">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=900&color=2DD4BF&center=true&vCenter=true&width=760&height=48&lines=Hi+there!+I'm+Gnana+Sai+RK+%F0%9F%91%8B;Engineering+Student+%F0%9F%8E%93;Web+Developer+%F0%9F%92%BB;Python+%26+Generative+AI+Enthusiast+%F0%9F%A4%96;Building+Ideas+Into+Practical+Projects+%E2%9A%A1" alt="Animated typing intro"/>
 </a>
-
+ 
 </p>
  
 <p align="center">
