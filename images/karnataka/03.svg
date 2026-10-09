@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#102b22"/><stop offset="1" stop-color="#1d5140"/></linearGradient></defs>
+<rect width="1000" height="600" fill="#050914"/><rect x="25" y="25" width="950" height="550" rx="35" fill="url(#g)" stroke="#35baff" stroke-opacity=".35"/>
+<circle cx="820" cy="110" r="170" fill="#35baff" opacity=".08"/><circle cx="180" cy="510" r="180" fill="#1677ff" opacity=".08"/>
+<text x="70" y="220" font-family="Arial" font-size="92">🏞️</text>
+<text x="70" y="330" fill="#eef7ff" font-family="Arial" font-size="55" font-weight="700">Karnataka Portal</text>
+<text x="70" y="390" fill="#9db0c4" font-family="Arial" font-size="27">Responsive Information Platform</text>
+<text x="70" y="500" fill="#35baff" font-family="Arial" font-size="22">GNANA SAI RK • PROJECT</text>
+</svg>
