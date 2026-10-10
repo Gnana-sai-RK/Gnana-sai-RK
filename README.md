@@ -16,13 +16,9 @@
 <a href="https://www.linkedin.com/in/gnana-sai-ramakrishna-0098713bb7/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:gnanasairamakrishna@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
-<a href="https://profilo-orpin.vercel.app"><p align="center">
-<img
-src="https://komarev.com/ghpvc/?username=Gnana-sai-RK&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"
-alt="Profile Views"
-/>
+<p align="center"> <a href="https://profilo-orpin.vercel.app"><img src="https://komarev.com/ghpvc/?username=Gnana-sai-RK&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"></a>
 </p>
-</a>
+
 
 ------------------------------------------------------------------------
 
