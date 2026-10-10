@@ -19,6 +19,15 @@
 <p align="center"> <a href="https://profilo-orpin.vercel.app"><img src="https://komarev.com/ghpvc/?username=Gnana-sai-RK&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"></a>
 </p>
 
+<p align="center">
+<img
+src="https://komarev.com/ghpvc/?username=Gnana-sai-RK&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"
+alt="Profile Views"
+/>
+</p>
+
+
+
 
 ------------------------------------------------------------------------
 
